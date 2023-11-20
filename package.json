@@ -1,0 +1,10 @@
+{
+  "name": "great-big-example-application",
+  "version": "0.0.1",
+  "description": "A collection of demos in one big example",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+   "express":"3.0.0"
+  }
+}
